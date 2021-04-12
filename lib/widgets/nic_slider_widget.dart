@@ -137,7 +137,6 @@ class _NicSliderWidgetState extends State<NicSliderWidget> {
                     ],
                   ),
                   SizedBox(height: 10),
-                  
                   Container(
                     child: Align(
                       alignment: Alignment(0.9, -0.1),
